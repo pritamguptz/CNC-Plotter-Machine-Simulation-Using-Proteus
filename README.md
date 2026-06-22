@@ -25,7 +25,7 @@ A 3-Axis CNC Plotter Machine simulated in Proteus using Arduino Uno, ULN2003 ste
 
 Circuit Diagram
 
-<img width="100%" alt="Proteus Simulation" src="images/proteus_circuit.png">
+<img width="100%" alt="Proteus Simulation" src="Screenshot%202026-06-22%20at%2012.43.25.png">
 <hr>
 <h2>Pin Configuration</h2>
 
